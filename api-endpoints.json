@@ -1,5 +1,3 @@
 {
-  "bookmarks": "https://dco-garage.vercel.app/api/bookmarks",
-  "knowledge": "https://dco-garage.vercel.app/api/knowledge",
-  "toolkit": "https://dco-garage.vercel.app/api/toolkit",
+  "bookmarks": "https://dco-garage.vercel.app/api/bookmarks"
 }

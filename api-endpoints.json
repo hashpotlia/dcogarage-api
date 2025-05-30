@@ -2,5 +2,6 @@
   "bookmarks": "https://dco-garage.vercel.app/api/bookmarks",
   "dcose": "https://dco-garage.vercel.app/api/dcose",
   "toolkit": "https://dco-garage.vercel.app/api/toolkit",
-  "knowledge": "https://dco-garage.vercel.app/api/knowledge"
+  "knowledge": "https://dco-garage.vercel.app/api/knowledge",
+  "flags": "https://dco-garage.vercel.app/api/system_info"
 }

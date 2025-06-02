@@ -13,48 +13,6 @@
       "category": "Network Runbook"
     },
     {
-      "id": "psc-replacement",
-      "title": "Power Shelf Controller Replacement",
-      "components": ["PSC"],
-      "issueTypes": ["PSC_FAILURE", "POWER_ISSUE"],
-      "url": "https://w.amazon.com/bin/view/PowerShelfControllerReplacement",
-      "tags": ["power", "psc", "replacement"],
-      "confidence": 88,
-      "icon": "⚡",
-      "category": "Hardware Runbook"
-    },
-    {
-      "id": "fox-hardware-general",
-      "title": "Foxconn Hardware General Troubleshooting",
-      "vendors": ["FOX"],
-      "url": "https://w.amazon.com/bin/view/HardwareRunbooks/Foxconn",
-      "tags": ["foxconn", "hardware", "general"],
-      "confidence": 75,
-      "icon": "🔧",
-      "category": "Vendor Runbook"
-    },
-    {
-      "id": "snx-supermicro-guide",
-      "title": "Supermicro (SNX) Hardware Guide",
-      "vendors": ["SNX"],
-      "url": "https://w.amazon.com/bin/view/HardwareRunbooks/Supermicro",
-      "tags": ["supermicro", "hardware", "snx"],
-      "confidence": 75,
-      "icon": "🔧",
-      "category": "Vendor Runbook"
-    },
-    {
-      "id": "vetting-memory-issues",
-      "title": "Memory Vetting Issues Resolution",
-      "issueTypes": ["VETTING_MEMORY", "MEMORY_FAILURE"],
-      "components": ["DIMM", "MEMORY"],
-      "url": "https://w.amazon.com/bin/view/DCOSE/Documentation/Runbooks/Memory_Issues",
-      "tags": ["memory", "dimm", "vetting", "failure"],
-      "confidence": 85,
-      "icon": "🧠",
-      "category": "Issue Runbook"
-    },
-    {
       "id": "boot-failure-general",
       "title": "Boot Failure General Troubleshooting",
       "issueTypes": ["BOOT_FAILURE", "POST_FAILURE"],

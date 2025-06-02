@@ -25,6 +25,18 @@
       "category": "Network Runbook"
     },
     {
+      "id": "ec2c5n-network",
+      "title": "EC2C5N Network Troubleshooting",
+      "hostTypes": ["EC2C5N", "EC2C5"],
+      "issueTypes": ["VETTING_NETWORK", "LINK_DOWN"],
+      "vendors": ["FOX", "QCI"],
+      "url": "https://w.amazon.com/bin/view/VettingDCORunbook/EC2C5N",
+      "tags": ["network", "link", "connectivity"],
+      "confidence": 90,
+      "icon": "🌐",
+      "category": "Network Runbook"
+    },
+    {
       "id": "boot-failure-general",
       "title": "Boot Failure General Troubleshooting",
       "issueTypes": ["BOOT_FAILURE", "POST_FAILURE"],

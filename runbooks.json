@@ -44,6 +44,37 @@
       "confidence": 75,
       "icon": "🔧",
       "category": "Vendor Runbook"
+    },
+    {
+      "id": "snx-supermicro-guide",
+      "title": "Supermicro (SNX) Hardware Guide",
+      "vendors": ["SNX"],
+      "url": "https://w.amazon.com/bin/view/HardwareRunbooks/Supermicro",
+      "tags": ["supermicro", "hardware", "snx"],
+      "confidence": 75,
+      "icon": "🔧",
+      "category": "Vendor Runbook"
+    },
+    {
+      "id": "vetting-memory-issues",
+      "title": "Memory Vetting Issues Resolution",
+      "issueTypes": ["VETTING_MEMORY", "MEMORY_FAILURE"],
+      "components": ["DIMM", "MEMORY"],
+      "url": "https://w.amazon.com/bin/view/DCOSE/Documentation/Runbooks/Memory_Issues",
+      "tags": ["memory", "dimm", "vetting", "failure"],
+      "confidence": 85,
+      "icon": "🧠",
+      "category": "Issue Runbook"
+    },
+    {
+      "id": "boot-failure-general",
+      "title": "Boot Failure General Troubleshooting",
+      "issueTypes": ["BOOT_FAILURE", "POST_FAILURE"],
+      "url": "https://w.amazon.com/bin/view/DCOSE/Documentation/Runbooks/Boot_Issues",
+      "tags": ["boot", "post", "failure", "startup"],
+      "confidence": 80,
+      "icon": "🚀",
+      "category": "Issue Runbook"
     }
   ]
 }

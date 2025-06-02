@@ -3,7 +3,7 @@
     {
       "id": "ec2m6i-troubleshooting",
       "title": "EC2M6I Host Troubleshooting Guide",
-      "hostTypes": ["EC2M6I", "EC2M6ID", "EC2M6IN"],
+      "hostTypes": ["EC2B116C"],
       "issueTypes": ["VETTING_MEMORY", "VETTING_CPU", "BOOT_FAILURE"],
       "vendors": ["FOX", "SNX"],
       "url": "https://w.amazon.com/bin/view/VettingDCORunbook/EC2M6I",

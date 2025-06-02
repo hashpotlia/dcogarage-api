@@ -7,7 +7,7 @@
       "issueTypes": ["VETTING_MEMORY", "VETTING_CPU", "BOOT_FAILURE"],
       "vendors": [""],
       "url": "https://w.amazon.com/bin/view/VettingDCORunbook/EC2M6I",
-      "tags": ["waynemanor", "b1"],
+      "tags": ["memory", "cpu", "boot", "k2x. k2t, bios"],
       "confidence": 95,
       "icon": "🖥️",
       "category": "Host Runbook"

@@ -1,13 +1,13 @@
 {
   "runbooks": [
     {
-      "id": "ec2b116c-troubleshooting",
-      "title": "EC2B116C - Waynemanor (B1) DCO Runbook Host Troubleshooting Guide",
-      "hostTypes": ["EC2B116C"],
+      "id": "ec2m6i-troubleshooting",
+      "title": "EC2M6I Host Troubleshooting Guide",
+      "hostTypes": ["EC2M6I", "EC2M6ID", "EC2M6IN"],
       "issueTypes": ["VETTING_MEMORY", "VETTING_CPU", "BOOT_FAILURE"],
-      "vendors": [""],
+      "vendors": ["FOX", "SNX"],
       "url": "https://w.amazon.com/bin/view/VettingDCORunbook/EC2M6I",
-      "tags": ["waynemanor", "cpu", "boot", "k2x", "k2t", "bios"],
+      "tags": ["memory", "cpu", "boot", "vetting"],
       "confidence": 95,
       "icon": "🖥️",
       "category": "Host Runbook"

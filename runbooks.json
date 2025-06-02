@@ -3,7 +3,7 @@
     {
       "id": "ec2b116c-troubleshooting",
       "title": "EC2B116C - Waynemanor (B1) DCO Runbook Host Troubleshooting Guide",
-      "hostTypes": ["EC2B116C", EC2B116C],
+      "hostTypes": ["EC2B116C"],
       "issueTypes": ["VETTING_MEMORY", "VETTING_CPU", "BOOT_FAILURE"],
       "vendors": [""],
       "url": "https://w.amazon.com/bin/view/VettingDCORunbook/EC2M6I",

@@ -7,7 +7,7 @@
       "issueTypes": ["VETTING_MEMORY", "VETTING_CPU", "BOOT_FAILURE"],
       "vendors": ["FOX", "SNX"],
       "url": "https://w.amazon.com/bin/view/VettingDCORunbook/EC2M6I",
-      "tags": ["memory", "cpu", "boot", "vetting"],
+      "tags": ["waynemanor", "cpu", "boot", "vetting"],
       "confidence": 95,
       "icon": "🖥️",
       "category": "Host Runbook"

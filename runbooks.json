@@ -3,7 +3,7 @@
     {
       "id": "ec2c5n-network",
       "title": "EC2C5N Network Troubleshooting",
-      "hostTypes": ["EC2C5N", "EC2C5", "EC2B116C"],
+      "hostTypes": ["EC2C5N", "hash", "EC2B116C"],
       "issueTypes": ["VETTING_NETWORK", "LINK_DOWN"],
       "vendors": ["FOX", "QCI"],
       "url": "https://w.amazon.com/bin/view/VettingDCORunbook/EC2C5N",

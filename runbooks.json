@@ -1,0 +1,49 @@
+{
+  "runbooks": [
+    {
+      "id": "ec2m6i-troubleshooting",
+      "title": "EC2M6I Host Troubleshooting Guide",
+      "hostTypes": ["EC2M6I", "EC2M6ID", "EC2M6IN"],
+      "issueTypes": ["VETTING_MEMORY", "VETTING_CPU", "BOOT_FAILURE"],
+      "vendors": ["FOX", "SNX"],
+      "url": "https://w.amazon.com/bin/view/VettingDCORunbook/EC2M6I",
+      "tags": ["memory", "cpu", "boot", "vetting"],
+      "confidence": 95,
+      "icon": "🖥️",
+      "category": "Host Runbook"
+    },
+    {
+      "id": "ec2c5n-network",
+      "title": "EC2C5N Network Troubleshooting",
+      "hostTypes": ["EC2C5N", "EC2C5"],
+      "issueTypes": ["VETTING_NETWORK", "LINK_DOWN"],
+      "vendors": ["FOX", "QCI"],
+      "url": "https://w.amazon.com/bin/view/VettingDCORunbook/EC2C5N",
+      "tags": ["network", "link", "connectivity"],
+      "confidence": 90,
+      "icon": "🌐",
+      "category": "Network Runbook"
+    },
+    {
+      "id": "psc-replacement",
+      "title": "Power Shelf Controller Replacement",
+      "components": ["PSC"],
+      "issueTypes": ["PSC_FAILURE", "POWER_ISSUE"],
+      "url": "https://w.amazon.com/bin/view/PowerShelfControllerReplacement",
+      "tags": ["power", "psc", "replacement"],
+      "confidence": 88,
+      "icon": "⚡",
+      "category": "Hardware Runbook"
+    },
+    {
+      "id": "fox-hardware-general",
+      "title": "Foxconn Hardware General Troubleshooting",
+      "vendors": ["FOX"],
+      "url": "https://w.amazon.com/bin/view/HardwareRunbooks/Foxconn",
+      "tags": ["foxconn", "hardware", "general"],
+      "confidence": 75,
+      "icon": "🔧",
+      "category": "Vendor Runbook"
+    }
+  ]
+}
